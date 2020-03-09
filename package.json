@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-masterclass-project",
+  "version": "1.0.0",
+  "description": "This is code I wrote while taking course \"Node.js API Masterclass With Express & MongoDB\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eugenijus/nodejs-masterclass-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eugenijus/nodejs-masterclass-project/issues"
+  },
+  "homepage": "https://github.com/Eugenijus/nodejs-masterclass-project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
